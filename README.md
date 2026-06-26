@@ -17,4 +17,3 @@ el programa comience a ejecutarse.
 
 *PASO 03* : ACTIVAR MI SONIDO
 - Le damos play al sonido en el function setup con: (nombreVariable.play();)
-- 
